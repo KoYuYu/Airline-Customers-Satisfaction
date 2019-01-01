@@ -12,6 +12,6 @@ The dataset provided is huge around 130,000 rows and 28 variables. The Customer 
   	Validating performance among different models
   	Providing actionable insights after the analysis
    
-   #Here is the Report Link:
-   #https://docs.google.com/document/d/19XttV_XozKybWx_4Z_wGdDVYALQ_RaU4jjUDoJihjz4/edit?usp=sharing
+   Here is the Report Link:
+   https://docs.google.com/document/d/19XttV_XozKybWx_4Z_wGdDVYALQ_RaU4jjUDoJihjz4/edit?usp=sharing
    
